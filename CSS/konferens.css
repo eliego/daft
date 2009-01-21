@@ -1,0 +1,131 @@
+/* ---  TABELLER --- */
+
+/* MARGTABELL */
+.tbl
+{
+margin-left: 3px
+}
+{
+    COLOR: #000000;
+    FONT-FAMILY: arial, verdana, geneva;
+    FONT-SIZE: 10px;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: none
+}
+
+/* ---  TEXTER --- */
+
+/* rubrik */
+.rubrik{  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;   border-color: #CCCCCC black; border-style: dotted; border-top-width: 1px; border-bottom-width: 1px}
+
+/* Löptext */
+.loptext {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #333333}
+
+/* ---  INPUT --- */
+
+/* Inputruta */
+.inputruta {  font-family: Arial, Helvetica, sans-serif; font-size: 11px}
+
+/* --- LÄNKAR --- */
+
+
+/* Huvudlänkar */
+
+A:link
+{
+    COLOR: #000000;
+    FONT-FAMILY: verdana, geneva, arial;
+    FONT-SIZE: 10px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+A:hover
+{
+    COLOR: #CC0000;
+    FONT-FAMILY: verdana, geneva, arial;
+    FONT-SIZE: 10px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: underline
+}
+
+A:visited
+{
+    COLOR: #335178;
+    FONT-FAMILY: verdana, geneva, arial;
+    FONT-SIZE: 10px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A:visited:hover
+{
+    COLOR: #CC0000;
+    FONT-FAMILY: verdana, geneva, arial;
+    FONT-SIZE: 10px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: underline
+}
+A:active
+{
+    COLOR: #CC0000;
+    FONT-FAMILY: verdana, geneva, arial;
+    FONT-SIZE: 10px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+.NORMALRUBRIK {
+color: #000000;
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+font-weight: bold;   
+border-color: #999999; 
+border: #999999 dotted; border-width: 1px 0px
+
+}
+
+td {
+color: #000000;
+font-family: verdana, geneva, arial;
+font-size: 10px;
+font-weight: normal;
+
+}
+
+.nt {
+color: #000000;
+font-family: verdana, geneva, arial;
+font-size: 10px;
+font-weight: normal
+
+}
+
+.ntg {
+background: #F5F5F5;color: #000000;font-family: verdana, geneva, arial;font-size: 10px;font-weight: normal
+}
+
+.ntw {
+background: #FFFFFF;color: #000000;font-family: verdana, geneva, arial;font-size: 10px;font-weight: normal
+}
+
+
+
+.nt12 {
+color: #000000;
+font-family: verdana, geneva, arial;
+font-size: 12px;
+font-weight: normal;
+
+}
+
+p {
+color: #000000;
+font-family: verdana, geneva, arial;
+font-size: 10px;
+font-weight: normal;
+
+}
+
+
+
+.logininput { font-family: Arial, Helvetica, sans-serif; font-size: 11px}

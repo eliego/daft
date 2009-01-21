@@ -1,0 +1,10 @@
+// TODO:
+// Skriv lite mer på funcErrorHandler()
+// PHPDoc
+// Servern får inte skicka .ini!
+// Lägga till fler anrop till loggern
+// Flytta close() i Externalstorage
+// Fixa så att alla klassers getError*() tömmer felvariablerna när dom hämtats
+
+// Kolla datatyper på alla invariabler, SÄKERHETSHÅL!
+// Inga mellanslag i användarnamn!
